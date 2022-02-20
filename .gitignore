@@ -11,3 +11,6 @@ MasterDuelCardTranslator/search.db
 MasterDuelCardTranslator/source.cdb
 MasterDuelCardTranslator/ygocore.cdb
 MasterDuelCardTranslator/settings.json
+
+MasterDuelCardTranslator/build
+MasterDuelCardTranslator/dist
